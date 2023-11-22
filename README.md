@@ -19,15 +19,21 @@ Assurez-vous d'avoir Composer installé sur votre machine.
 
 - Créer un nouveau projet Laravel:
 
+```
 composer create-project --prefer-dist laravel/laravel voyage
+```
 
 - Démarrez le serveur de développement local:
 
+```
 php artisan serve
+```
 
 - Créer un contrôleur:
 
+```
 php artisan make:controller VoyageController
+```
 
 ### Lien
 
@@ -38,4 +44,7 @@ https://e2395321.webdev.cmaisonneuve.qc.ca/voyage/
 - Lien github
 
 https://github.com/agnes31/Laravel_Voyage
+
+
+
 
